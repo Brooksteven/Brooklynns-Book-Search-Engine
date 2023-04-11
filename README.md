@@ -63,6 +63,13 @@ This MERN stack application is a multi page book search engine that allows users
 - step 4: Start the server by running ``` npm start ``` in the terminal
 
 
+## Screenshots of Application in Use
+
+<img width="1108" alt="Book Search" src="./assets/hwdemo.gif" />
+<img width="1108" alt="Delete HW" src="./assets/hwdelete.gif" />
+<img width="1108" alt="Save HW" src="./assets/hwsave.gif" />
+
+
 ## Technologies
 * [MongoDB](https://www.mongodb.com)
 * [Express.js](https://expressjs.com)
