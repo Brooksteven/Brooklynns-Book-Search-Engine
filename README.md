@@ -3,8 +3,7 @@
   * [User Story](#user-story)
   * [Acceptance Criteria](#user-story)
   * [Installation](#installation)
-  * [Setup](#setup)
-  * [Usage](#usage)
+  * [Screenshots of Application In Use](#screenshot)
   * [Technologies](#technologies)
   * [Questions?](#questions)
 
